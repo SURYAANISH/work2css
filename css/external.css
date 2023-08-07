@@ -1,0 +1,74 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,300&display=swap');
+
+  body{
+    font-family: 'Source Serif 4', serif;
+  }
+
+.wow{
+    display: flex;
+    justify-content: space-between;
+}
+.wow{
+    color: green;
+}
+.wow h2{
+    font-size: 50px;
+}
+.wow a{
+    text-decoration: none;
+}
+
+.a{
+    display: flex;
+    
+}
+.a{
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+.c{
+    padding: 30px;
+    text-align: justify;
+    
+    
+    
+}
+.a1{
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+    display: flex;
+    
+
+}
+.a2{
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+    display: flex;
+
+
+
+}
+.c h4{
+    color: blue;
+
+}
+.a1 h4{
+    color: green;
+}
+.a2 h4{
+    color: darkolivegreen;
+}
+.wow2{
+    padding-top: 60px;
+    
+}
+
+
+
+
+
